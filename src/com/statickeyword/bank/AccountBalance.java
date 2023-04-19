@@ -1,4 +1,4 @@
-package com.staticKeyword.bank;
+package com.statickeyword.bank;
 
 public class AccountBalance {
     public static int accountBalance = 10000;

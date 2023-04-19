@@ -1,6 +1,6 @@
-package com.staticKeyword;
+package com.statickeyword;
 
-import com.staticKeyword.bank.AccountBalance;
+import com.statickeyword.bank.AccountBalance;
 
 public class Main {
     public static void main(String[] args) {
